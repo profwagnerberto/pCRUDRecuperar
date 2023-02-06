@@ -1,4 +1,4 @@
-package br.com.aluno.jdbc;
+package br.com.academico.jdbc;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

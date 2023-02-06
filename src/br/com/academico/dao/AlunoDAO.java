@@ -5,8 +5,8 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
+import br.com.academico.jdbc.FabricaDeConexoes;
 import br.com.academico.modelo.Aluno;
-import br.com.aluno.jdbc.FabricaDeConexoes;
 
 public class AlunoDAO {
   public void criar(Aluno pAluno) throws Exception {
